@@ -1,0 +1,245 @@
+[
+  {
+    "_id": {
+      "$oid": "5d0a433e19a4933b18093717"
+    },
+    "name": "5 Panel Hat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "price": {
+      "$numberInt": "50"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953662675"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954139123"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a433e19a4933b18093717",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a435719a4933b1809371a"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "name": "Chambray Shirt",
+    "price": {
+      "$numberDouble": "89.9"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953687337"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954145181"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a435719a4933b1809371a",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a436c19a4933b1809371d"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "price": {
+      "$numberDouble": "119.5"
+    },
+    "name": "Court Sneaker",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953708378"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954151771"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a436c19a4933b1809371d",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a436c19a4933b1809371d"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "price": {
+      "$numberDouble": "119.5"
+    },
+    "name": "Court Sneaker",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953708378"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954151771"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a436c19a4933b1809371d",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a438419a4933b18093720"
+    },
+    "price": {
+      "$numberDouble": "229.85"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "name": "Grande Boot",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953732036"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954160250"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a438419a4933b18093720",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a43a619a4933b18093723"
+    },
+    "name": "Scout Backpack",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "price": {
+      "$numberDouble": "59.32"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953766539"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954175775"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a43a619a4933b18093723",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a43bf19a4933b18093726"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "name": "Spike Bracelet",
+    "price": {
+      "$numberDouble": "9.99"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953791593"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954184266"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a43bf19a4933b18093726",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a43d619a4933b18093729"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "name": "Whitney Pullover",
+    "price": {
+      "$numberDouble": "79.65"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953814793"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954202188"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a43d619a4933b18093729",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d0a43f219a4933b1809372c"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget sit amet. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Morbi tristique senectus et netus. Duis convallis convallis tellus id interdum velit laoreet id. Malesuada pellentesque elit eget gravida. Ornare aenean euismod elementum nisi quis eleifend quam. In hendrerit gravida rutrum quisque non. Risus ultricies tristique nulla aliquet enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.",
+    "name": "Woolfill Jacket",
+    "price": {
+      "$numberDouble": "239.95"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1560953842844"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1560954195574"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    },
+    "id": "5d0a43f219a4933b1809372c",
+    "user": {
+      "$oid": "5d09b12f8b265e41e8d56be8"
+    }
+  }
+]
